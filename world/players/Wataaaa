@@ -1,0 +1,72 @@
+breath = 11
+extended_attributes = """
+null
+
+"""
+hp = 18
+name = Wataaaa
+pitch = 32.5
+position = (-2646.95,145,1155.92)
+version = 1
+yaw = 341.11
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_stone 1 7848 "\u0001\u0002\u0003"
+Item default:axe_stone 1 27300
+Item ethereal:redwood_trunk 3
+Item stairs:stair_redwood_wood 10
+Item ethereal:redwood_wood 25
+Item default:torch 9
+Item stairs:slab_redwood_wood 17
+Item default:ladder_wood 9
+Item default:stick 6
+Empty
+Item default:pick_stone 1 53508 "\u0001\u0002\u0003"
+Item default:cobble 8
+Item farming:barley
+Item bucket:bucket_empty
+Item ethereal:fence_redwood 8
+Item farming:hoe_stone 1 64768 "\u0001\u0002\u0003"
+Empty
+Item moretrees:poplar_trunk 8
+Item moretrees:sequoia_trunk 55
+Empty
+Item farming:wheat
+Item default:coal_lump 16
+Empty
+Item default:shovel_stone
+Empty
+Item animalmaterials:scissors
+Item moreblocks:stair_cobble 8
+Empty
+Item moreblocks:panel_cobble 12
+Item default:shovel_stone 1 64428 "\u0001\u0002\u0003"
+Empty
+Item ethereal:wild_onion_plant 10
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

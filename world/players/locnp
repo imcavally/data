@@ -1,0 +1,72 @@
+breath = 11
+extended_attributes = """
+null
+
+"""
+hp = 20
+name = locnp
+pitch = -13.09
+position = (-1950.55,15,-963.11)
+version = 1
+yaw = 140.54
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:torch 24
+Item stairs:slab_redwood_wood 31
+Item default:sword_steel 1 13068 "\u0001\u0002\u0003"
+Item ethereal:fence_redwood
+Item default:shovel_steel 1 3146 "\u0001\u0002\u0003"
+Item default:pick_stone 1 2184 "\u0001\u0002\u0003"
+Item farming:hoe_wood 1 13554 "\u0001\u0002\u0003"
+Item default:cobble 62
+Item ethereal:redwood_wood 5
+Item default:dirt 8
+Item wool:white 3
+Item screwdriver:screwdriver 1 6909 "\u0001\u0002\u0003"
+Item moreblocks:slab_cobble 54
+Item ethereal:wild_onion_plant 11
+Item bakedclay:grey 4
+Item default:silver_sand 6
+Item farming:seed_wheat 11
+Item creatures:flesh 2
+Item ethereal:bone 19
+Item creatures:feather 2
+Item ethereal:charcoal_lump
+Item default:stick 8
+Item default:ladder_wood 8
+Item default:stonebrick 91
+Item creatures:chicken_flesh 2
+Item default:steel_ingot 8
+Item ethereal:willow_trunk 16
+Item ethereal:redwood_trunk 79
+Item craft_guide:sign_wall
+Item default:axe_stone
+Item bones:bones
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,72 @@
+breath = 11
+extended_attributes = """
+null
+
+"""
+hp = 17
+name = Hello
+pitch = -63.3
+position = (-3147.71,435,-319.29)
+version = 1
+yaw = 241.59
+PlayerArgsEnd
+List main 32
+Width 0
+Item farming:hoe_stone
+Item default:aspen_wood 4
+Item ethereal:willow_wood 36
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
